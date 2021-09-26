@@ -14,6 +14,8 @@ docker-compose 1.25.0
 
 [参考Fabric中文文档](https://hyperledger-fabric.readthedocs.io/zh_CN/release-2.2/prereqs.html)
 
+（版本不同不代表无法运行）
+
 # 运行方式
 
 在`/etc/hosts`中添加：
